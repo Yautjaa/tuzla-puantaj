@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "puantaj-api",
+  "description": "PuantajPro — Vercel API dependencies (Node.js uploadthing route)",
+  "dependencies": {
+    "uploadthing": "^7.4.0"
+  }
+}
